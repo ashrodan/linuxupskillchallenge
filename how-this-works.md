@@ -1,6 +1,10 @@
 # HOW THIS WORKS...
 
-This is the home of the monthly "Linux Upskill Challenge". 
+* Website of the course: https://LinuxUpskillChallenge.org
+* Monthly "Linux Upskill Challenge": https://www.reddit.com/r/linuxupskillchallenge/
+* Lesson "source": https://github.com/snori74/linuxupskillchallenge 
+* Chat at: https://discordapp.com/invite/wd4Zqyk
+
 
 ## You'll need to setup a cloud-based server
 
@@ -30,3 +34,6 @@ Expect to spend 1-2 hours going through each. Some find it handy to read the not
 
 ## Support
 Feel free to post questions or comments here in the subreddit – or chat using the Discord server (https://discordapp.com/invite/wd4Zqyk) run by u/cobaltrune.
+
+## Patreon?
+No, but there are [a number of ways you can support and show your appreciation](https://www.blogger.com/blog/post/edit/10221325/4292551569536709034).
